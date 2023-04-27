@@ -11,6 +11,6 @@ The files are as follows:
 -	05a-05b: Estimates productivity indices and components for the country-level International Agricultural Productivity data set provided by USDA (in R).
 -	06_Stata_CompareDensities.do: Estimate the kernel-analysis procedure (in Stata).
 
-The final files contain the data envelopment analysis (DEA) programs to estimate and decompose all productivity indices computed in this study. 
+The files in the subfolder "R_aux" contain the data envelopment analysis (DEA) programs to estimate and decompose all productivity indices computed in this study. 
 
 The script was successfully run in R version 4.2.0.
