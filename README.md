@@ -1,6 +1,6 @@
 # Ag-Productivity-US-EU
 
-This code replicates the figures and tables presented in the article “Components of Agricultural Productivity Change: Replication of US Evidence and Extension to the EU”, published in Applied Economics Perspectives and Policy. 
+This code replicates the figures and tables presented in the article “Components of Agricultural Productivity Change: Replication of US Evidence and Extension to the EU”, published in Applied Economics Perspectives and Policy: https://doi.org/10.1002/aepp.13377 
 
 The files are as follows:
 
